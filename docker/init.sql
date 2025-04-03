@@ -1,0 +1,3 @@
+CREATE USER postgres;
+CREATE DATABASE training;
+GRANT ALL PRIVILEGES ON DATABASE training TO postgres;
